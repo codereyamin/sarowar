@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424691128075",
+    "project_id": "sarowar-5c1c5",
+    "storage_bucket": "sarowar-5c1c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424691128075:android:bc891ae5f979060b18b40e",
+        "android_client_info": {
+          "package_name": "com.example.sarowar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424691128075-hppgbreeochhi62bihf96968nhcvu4cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_jrRKlD2iGMYmy6gjHM8up6yneA4aj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424691128075-hppgbreeochhi62bihf96968nhcvu4cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
